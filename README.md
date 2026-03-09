@@ -37,6 +37,8 @@ EDA Playground
 SystemVerilog  
 UVM
 
+## EDA Playground Link
+https://www.edaplayground.com/x/LpyX
 ## Learning Outcome
 This project demonstrates how register verification is implemented using
 UVM RAL with explicit prediction.
